@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ayuskarki
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning php laravel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me ...Just dont
 
 <!---
 ayuskar/ayuskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
