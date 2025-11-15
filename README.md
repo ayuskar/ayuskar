@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ayuskarki
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ...Just dont
+- 👀 I’m interested in Python/Django/Laravel/WordPress web development
+- 🌱 I’m currently learning API development
+- 💞️ I’m looking to collaborate on live projects
+- 📫 How to reach me - LinkeDin
 
 <!---
 ayuskar/ayuskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
